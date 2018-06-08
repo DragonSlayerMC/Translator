@@ -1,0 +1,9 @@
+name: Translator
+version: 1.0
+main: Dragonslayer.translator.Main
+author: DragonSlayer
+depend: [Vault]
+commands:
+   translations:
+    description: Main command
+    usage: /<command> add <user>
